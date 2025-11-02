@@ -1,0 +1,23 @@
+name: Auto Commit
+
+on:
+  schedule:
+    - cron: '0 3 * * *'  # Runs every day at 3 AM UTC (8:30 AM IST)
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "Dark-Vinaal"
+          git config --global user.email "225589547+Dark-Vinaal@users.noreply.github.com"
+
+      - name: Make empty commit
+        run: |
+          git commit --allow-empty -m "🤖 Auto commit to keep streak alive"
+          git push
