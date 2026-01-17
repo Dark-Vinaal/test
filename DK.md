@@ -33,7 +33,7 @@
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!&fontAlign=80&fontAlignY=40&color=gradient)
 
-## [💫 About Me](https://github.com/Dark-Vinaal#-about-me-) <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+## 💫 About Me
 
 ### An Aspiring Tech Lover with a Passion for Coding, Designing, Gaming, and Artificial Intelligence
 
@@ -63,61 +63,45 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## [🌐 Socials & Profiles](https://github.com/Dark-Vinaal#-socials--profiles)
+## 🌐 Socials & Profiles
 
 <br>
 <div align="center">
   
-<a href="https://www.linkedin.com/in/vinaal/">
+<a href="">
   <img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="LinkedIn" />
 </a>
-<a href="https://linktr.ee/Darkxzz999">
-  <img src="https://img.shields.io/badge/Linktree-d5d5d5?style=for-the-badge&logo=linktree&logoColor=0A0209" alt="Linktree" />
-</a>
-<a href="https://medium.com/@@darkxzz999">
-  <img src="https://img.shields.io/badge/Medium-d5d5d5?style=for-the-badge&logo=medium&logoColor=0A0209" alt="Medium" />
-</a>
-<a href="https://x.com/__Vinaal__">
-  <img src="https://img.shields.io/badge/X-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="X / Twitter" />
-</a>
-<a href="https://youtube.com/@@Techyxzz">
-  <img src="https://img.shields.io/badge/YouTube-d5d5d5?style=for-the-badge&logo=youtube&logoColor=0A0209" alt="YouTube" />
-</a>
-<a href="https://instagram.com/_darkxzz__">
+<a href="">
   <img src="https://img.shields.io/badge/Instagram-d5d5d5?style=for-the-badge&logo=instagram&logoColor=0A0209" alt="Instagram" />
 </a>
-<a href="https://discord.com/users/darkxzz999">
-  <img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="Discord" />
-</a>
-<a href="mailto:vinaalm898@gmail.com">
+<a href="mailto:example@gmail.com">
   <img src="https://img.shields.io/badge/Email-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="Email" />
 </a>
-<a href="https://github.com/Darkxzz999">
+<a href="https://github.com/Dineshkanna-FSDev">
   <img src="https://img.shields.io/badge/GitHub-d5d5d5?style=for-the-badge&logo=github&logoColor=0A0209" alt="GitHub" />
 </a>
-<a href="https://codepen.io/@Dark-Vinaal">
+<a href="">
   <img src="https://img.shields.io/badge/CodePen-d5d5d5?style=for-the-badge&logo=codepen&logoColor=0A0209" alt="CodePen" />
 </a>
-<a href="https://leetcode.com/u/f7ZNOOeAuw/">
+<a href="">
   <img src="https://img.shields.io/badge/LeetCode-d5d5d5?style=for-the-badge&logo=leetcode&logoColor=0A0209" alt="LeetCode" />
 </a>
-<a href="https://www.hackerrank.com/profile/vinaalm898">
+<a href="">
   <img src="https://img.shields.io/badge/HackerRank-d5d5d5?style=for-the-badge&logo=hackerrank&logoColor=0A0209" alt="HackerRank" />
 </a>
 
 </div>
 
+`Portfolio` 
 <div align="center">
-<a href="https://vinaalr.netlify.app/">
-  <img src="https://img.shields.io/badge/VR%20-%20Portfolio-d5d5d5?style=for-the-badge&labelColor=0A0209&color=d5d5d5&logoColor=0A0209" />
-</a>
+<a href=""></a>
 </div> <br>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## [🧠 Skills](https://github.com/Dark-Vinaal#-skills--)  <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
+## 🧠 Skills
 
 | **Category** | **Skills** |
 |---------------|------------|
@@ -132,7 +116,7 @@
 | **Toolkits & Environments** | ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) ![JDK](https://img.shields.io/badge/JDK-%23007ACC.svg?style=for-the-badge&logo=java&logoColor=white) ![JRE](https://img.shields.io/badge/JRE-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![MinGW](https://img.shields.io/badge/MinGW-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) |
 
 
-## [🧠 Tools & Softwares I'm Familiar With](https://github.com/Dark-Vinaal#-tools--softwares-im-familiar-with--)  <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
+## 🧠 Tools & Softwares I'm Familiar With
 
 | **Category** | **Stacks** |
 |---------------|------------|
@@ -145,7 +129,7 @@
 | **Competitive Coding** | ![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black) ![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white) ![CodePen](https://img.shields.io/badge/CodePen-%23000000.svg?style=for-the-badge&logo=codepen&logoColor=white) ![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%230F9D58.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white) ![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white) |
 | **Learning Platforms** | ![LinkedIn Learning](https://img.shields.io/badge/LinkedIn%20Learning-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![Google Learning](https://img.shields.io/badge/Google%20Learning-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white) ![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-%230A0A23.svg?style=for-the-badge&logo=freecodecamp&logoColor=white) ![Simplilearn](https://img.shields.io/badge/Simplilearn-%2300599C.svg?style=for-the-badge&logo=skillshare&logoColor=white) ![Great Learning](https://img.shields.io/badge/Great%20Learning-%23007ACC.svg?style=for-the-badge&logo=googleclassroom&logoColor=white) ![GUVI](https://img.shields.io/badge/GUVI-%2320C997.svg?style=for-the-badge&logo=python&logoColor=white) ![IBM SkillsBuild](https://img.shields.io/badge/IBM%20SkillsBuild-%230052CC.svg?style=for-the-badge&logo=ibm&logoColor=white) ![Udemy](https://img.shields.io/badge/Udemy-%23A435F0.svg?style=for-the-badge&logo=udemy&logoColor=white) ![Coursera](https://img.shields.io/badge/Coursera-%232D8CFF.svg?style=for-the-badge&logo=coursera&logoColor=white) |
 
-## [🎯 Learning Progress Overview](https://github.com/Dark-Vinaal#-learning-progress-overview-) <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
+## 🎯 Learning Progress Overview
 
 | **Skills** | **🟢 Learning Now** | **🔵 Next Up** |
 |-------------|--------------------------|----------------------------------|
@@ -162,9 +146,9 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## [📝 Projects](https://github.com/Dark-Vinaal#-projects)
+## 📝 Projects
 
-Hey Guys! To View and Explore all of my Complete Projects Collection, Click here!!! [View](https://github.com/Dark-Vinaal/Dark-Vinaal/blob/main/PROJECTS/Projects.md) 
+Hey Guys! To View and Explore all of my Complete Projects Collection, Click here!!! [View]() 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
