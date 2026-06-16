@@ -2,7 +2,7 @@ name: Auto Commit
 on:
   schedule:
     - cron: '0 3 * * *'
-  # Runs every day at 3 AM UTC (8:30 AM IST)
+  
   workflow_dispatch:
 jobs:
   build:
