@@ -1,0 +1,4 @@
+<!DOCTYPE message [
+  <!ELEMENT message (#PCDATA)>
+]>
+<message>Hello, World!</message>
